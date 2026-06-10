@@ -14,7 +14,7 @@ A command-line Sudoku solver built in Python using recursive backtracking. This 
 
 ---
 
-##📁 File Structure
+## 📁 File Structure
 sudoku-solver/
 
 ├── solver.py # Contains the Board class and solving logic
